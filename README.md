@@ -1,4 +1,4 @@
-# Medical-Image-enhancement
+# Medical image enhancement based on nonlinear technique and logarithmic transform coefficient histogram matching
 
 This is a Matlab implementation of the following research paper :
 
