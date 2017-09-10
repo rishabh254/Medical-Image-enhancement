@@ -1,4 +1,4 @@
-# Medical-Image-enhancemen
+# Medical-Image-enhancement
 
 This is a Matlab implementation of the following research paper :
 
